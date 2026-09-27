@@ -4,4 +4,4 @@
 - `as2-final`: `nba2.ipynb`, `nba22.ipynb` e `nba2.html` (29/06/2026).
 - Dataset: `nba_stats.csv` (lido por `nba.py`).
 
-No GitHub existe o repositório `52-PUCPR-MachineLearning`, que pode receber este histórico.
+Publicado como `56-machine-learning-nba` (o repositório antes se chamava `52-PUCPR-MachineLearning`).
